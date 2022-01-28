@@ -12,3 +12,8 @@ First, navigate to the root of the project.<br>
 \> Create a new webpage <br>
 \> Copy the contents of the `main.bundle.js` file into a `<script type> ... </script>` tag<br>
 \> Save and append ?width=800&height=600 to the URL<br>
+
+### Develop locally
+\> npm run dev
+This should open a new page of the url `http://localhost:8080/`.
+Edit ./src/index.js to change the source code.
